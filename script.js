@@ -44,7 +44,6 @@ function generateMessage(noCount) {
   const messages = [
     "Ngga",
 "Yakin nih?",
-    "Sayang pliss...",
     "Tega banget sama aku :(",
     "Hati aku hancur berkeping-keping",
     "Aku otw nangis dipojokan nih...",
